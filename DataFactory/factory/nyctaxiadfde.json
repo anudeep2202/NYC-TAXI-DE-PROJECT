@@ -1,0 +1,9 @@
+{
+	"name": "nyctaxiadfde",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94efa4e5-a69b-480e-93aa-c0d4b8910aa8",
+		"tenantId": "0bca7ac3-fcb6-4efd-89eb-6de97603cf21"
+	}
+}
